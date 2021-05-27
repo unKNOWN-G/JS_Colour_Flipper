@@ -1,0 +1,22 @@
+button
+{
+    background-color: rgb(10, 10, 10);
+    color: rgb(38, 255, 5);
+    font-family: Agency fb;
+    font-size: 1em;
+    border-radius: 20%;
+}
+
+.colors
+{
+    background-color: white;
+    color: green;
+    font-family: Agency fb;
+    font-size: 2em;
+    margin-top: 7em;
+    margin-right :15em;
+    margin-left: 15em;
+    margin-bottom: 7em;
+    padding: 0.5em;
+    border-radius: 5%;
+}
